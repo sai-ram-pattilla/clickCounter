@@ -1,0 +1,11 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 30px;
+  font-family: roboto;
+}
